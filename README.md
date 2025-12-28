@@ -31,7 +31,7 @@ https://manish-shahi.vercel.app/
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/YourUsername/react-portfolio.git
+git clone https://github.com/Manish-shahi/react-portfolio.git
 cd react-portfolio
 npm install
 npm run dev
