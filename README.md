@@ -4,7 +4,7 @@ This is my personal portfolio website built using **React** and **GSAP** for ani
 
 ## Live Demo
 
-[Add live site link after deployed]
+https://manish-shahi.vercel.app/
 
 ## Features
 
